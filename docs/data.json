@@ -1,152 +1,142 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "items": {
   "음악": [
    {
-    "title": "울산서 이지영·인순이와 함께하는 ‘힐링 인문학 콘서트’ 개최 - 뉴스아이이에스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnckpGM29WRHV2TWhQeE5xMXIyYmlZbDhOb0ZISWtWWExCZXVTUkZNS01IRm5hOGJ2aVlJRkhDRU01VVFmM1VodjNoMjl5bjcwbWo0SnQ3M18zY3YtelFTVnNaOUZ2WjQ0ZGxMWnROakY4UdIBckFVX3lxTFBnckpGM29WRHV2TWhQeE5xMXIyYmlZbDhOb0ZISWtWWExCZXVTUkZNS01IRm5hOGJ2aVlJRkhDRU01VVFmM1VodjNoMjl5bjcwbWo0SnQ3M18zY3YtelFTVnNaOUZ2WjQ0ZGxMWnROakY4UQ?oc=5",
+    "title": "[Opinion] 영원한 No.1 Boyband - ‘5 Seconds of Summer‘ 내한 콘서트 [공연] - 아트인사이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04and2SXhPY0lZTUZzZGFkOVU4cnFONmZ3T2FfZ092QjVaRVc1eDNzQ2t1b3ZkTEJwRlFVWF9DV1NxbzVHZUlSVElpTXp4c2VtcW5sOHQ0OUtFTjlCbGNnZQ?oc=5",
+    "source": "아트인사이트"
+   },
+   {
+    "title": "“제주남방큰돌고래의 숨결을 지켜라”…더희망코리아, ‘푸른숨 도심 콘서트’ 성황 - 뉴스N제주",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWW1QZko2MEFBYXVmTTVVZkxSanBNUF9MbG1KNDltSS14d0Y4VVBZVnNrUDFlRmVHTHZyRmwzSk1welNYSGJzNUJXWG40YTlnR1BpZFo0WHdlQkpDcTF0X2pLbkpoaURwenljMw?oc=5",
+    "source": "뉴스N제주"
+   },
+   {
+    "title": "한겨울에 다시 꺼낸 여름…정은지, 아시아 투어 넘어 연말 앙코르로 이어가는 음악의 시간 - 제이앤엠뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yUXBuS3RuRXhwSWpHbV9WeVhEemJPX3F2cEVvLXNhbFpDY19ROUFvSEhIeGtZeDhOVjZrT3RYZDVzX19RTFplX0dpdC1lbVIwNEI5LVJOMUt3ZjF5VWlIbw?oc=5",
+    "source": "제이앤엠뉴스"
+   },
+   {
+    "title": "공연 티켓 한 장이 아이들의 꿈으로…‘국악몽유단 국내산’ 횡성서 첫 단독 콘서트 - 강원도민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vclpEQ0JMLUxzTUVsR0QzTHY2RkRtWEhtU3I0UkF3aVRXQXN3NDB2anhFQmluLTlFX0NrOXVjQ2NvZWZESHp2ODlrU0d6NUY5YmVVMTl1VUxoQ25BVmdqRkl5UngzYms?oc=5",
+    "source": "강원도민일보"
+   },
+   {
+    "title": "합천군, 수능 다음 날‘별빛 공감 ON 콘서트’ 개최 - 뉴스파이어",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Qb2ROai02VkZaM2MzMXQ4WDFVbDRFem5aT3N6UGUyOWU5bTU2b2k1cVQwc2MxZnZYeDFBb0h1cnFfYlc4aUtiNHZRRWYyS0Exa3VMZGlRR2tFanE0cFZXMVBWV09yR2NSSmMzazdkbw?oc=5",
+    "source": "뉴스파이어"
+   },
+   {
+    "title": "V-Beyond 콘서트의 다층 무대와 눈부신 레이저 조명이 모습을 드러낸다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTThPVWZZczI5M0g4WDdGWXNhRXY0bng0QjhvUHl2U250SlJwVC03NndzX3B4dWpCNzRZTkRWNUpncXFqV2NaWllVWGxxa1FNcERvQVQzT3lhQ05kTmhZVEM1dmF3YzRNVnI0a1ZUeldDZzBUNGRwbk5xTmZXMEtITFhhSldHRzhSeV9QTw?oc=5",
+    "source": "Vietnam.vn"
+   },
+   {
+    "title": "국립국악관현악단 ‘2026 윈터 콘서트’ 공연 - 뉴스아이이에스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzaHI4UjZrcTV3N2tRLVhaTDNRNy0zaFVTZVJGZGNKVEhFUWxXZkFLTk5qclRFdDFoRC1EUXFtd2RRYkphWmU0QXBJZ3M1SEJBM0U2TTRIRnBNX2hLUXF3Szd5R0tvNlVLaEV0ZnpLTdIBckFVX3lxTE54X0ZjY09nN0JlNVpfOWZFUGFQdHRGNVhpVjZqY2cwZklkZ0lTS1pVZW0yajlBY1BKOGRvSDlMdFlidzhHVXYtQ1g3M2JZS2FDaVlGNFU4M2lUX01uUExNMU5CZWZJdEgzTWlFUlpxX0NoUQ?oc=5",
     "source": "뉴스아이이에스"
    },
    {
-    "title": "울산문화예술회관, 12월 1~2일 '힐링 인문학 콘서트' 개최…이지영·인순이 출연 - 뉴스21 통신",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSG8wSXdtUVVLZUVCQVE2cnJQSjNScXRpM1VNMmlUM3B6aHcxVlpLdTdKMGFILVVMOGU2a0paaWh2VXdNSFEtdmxuajZ3eGtuU1FFNU1B?oc=5",
-    "source": "뉴스21 통신"
-   },
-   {
-    "title": "인순이, 울산서 음악과 인생 노래한다 - Korearetro",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VaDJWbUpBRzRYaDZJRlc0ZnJ6NXdXc00wNXFaaV9FNTBqZ1VuOFFsbUNKNGRWM09vZU55dDZBRFpHMVJKWjRsX1dQUDdLLWxDQ192Tnp1NkZxWkJTeG1HQzU2UnZ3MEZqMjJN?oc=5",
-    "source": "Korearetro"
-   },
-   {
-    "title": "음악과 인문학의 만남… 울산서 연말 힐링 콘서트 열린다 - 울산종합일보",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTmpqM2llQ3gybUJvYzhSWmlUbXNCaVY1ZFVuY0FrLUp0UkczblkzZnBJTldCQ1hxc1l5LU1aVmpNR0xVSG54Q2VoRDUxLWxvc1hnWEMzVDM5cm1LYmMtNGl6c2dnNTlNRXZLYXJ3?oc=5",
-    "source": "울산종합일보"
-   },
-   {
-    "title": "제니스에서 베르시로… 테아, 다음 파리 공연 규모 키운다 - Sortir à Paris",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR2tJX0hRM2pkSWRMckZ5eVRFdWlUMFRuTUxlcTFvYUxta3V3UDdxWHhmNU85ZHE4ekpHZC02bFZELTBxdkU3QkhLamVrWWZWaW8wNUcwOVJRQ2lpblIyR0ZzMThDLS02dHdzU2d4MC04VFZFZFJram51QVRROVlxVEk1MnJWSmdUYTY0R29iY1ZhazkwM0MxclZZeDNfWmpaY2xGZGp3cWZRSGtYSGcxUG4wVU00NGlkVmFQZHNPemlOWmN2MXBsMlhmRElFUFk2U3g2c28xWWU?oc=5",
-    "source": "Sortir à Paris"
-   },
-   {
-    "title": "소향·김기태부터 조항조까지…11월 마지막 주말 목포 달구는 콘서트 - 진일보 | 전남일보",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tUkdTNVE5SHl1MmFqYVAtbkNEa1Z5UGFVSzZUaEFEZUU5bHY5TER3SUljUjc5dkMwdU14QXVIUEJKM0RNYUhldmluV2JJeFlkVDdmcEVSV245ZDRzbjNEeFlOb1QxV0hDZUtwQUFybw?oc=5",
-    "source": "진일보 | 전남일보"
-   },
-   {
-    "title": "울산문화예술회관, 예술 강좌‘치유 인문학 콘서트’개최 - 글로벌뉴스통신GNA",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsT0F4X0JjNGp1MkhFV1BXbXlSWW9JMncyNVQ3bFQzdjNOVXlKVGJLVkVRQUQzZjlDM0lIb29LX2k1bUQtd1hyT0pMTXVOSjNxc3VjNVVLazFaRUw5RzIyMHN2V1ZUdHQzd3lWWVdQZ2lyeUt3?oc=5",
-    "source": "글로벌뉴스통신GNA"
-   },
-   {
-    "title": "인순이·이지영, 울산서 희망과 도전 이야기…12월 1~2일 인문학 콘서트 - 잉크뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XRVRmUlhkQzJ6blByVFJTSVkySFdaQThIRXlWME5kdDNDcUJrTHJndUM0aUdnbllBdkNqQjFScFJIYmVrUFVFQ2FZTm9XRFZXaWFnd3UybG54cENVR3VHWWd3OFFTdw?oc=5",
-    "source": "잉크뉴스"
+    "title": "이번 주말 시애틀 어디 갈까…발레 '호두까기 인형'부터 맛집·공연까지 풍성 > 시애틀 뉴스/핫이슈 - SeattleN",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSUVKMzFrN0EzdWwwNHRwRzVRQWhoaGp2RllVSWZMZElVam5tekNDQU9JYUlSeUtpNC1SUlhSY2sxMHpVZGZqanJWNG5TSm1yUmdkWTVSUzBXWW9LeEJYY050MF9ZMlFNaG52dUdCdmw?oc=5",
+    "source": "SeattleN"
    }
   ],
   "미술·전시": [
    {
-    "title": "[전시회] 기당미술관, 소장품전 무제 : 의도적 부재 - 서귀포방송",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yMDF2b1hVazZGOHNITE1jVnFkS0pwNEdwR3dGZlZCU2N0RFFxSlNBM2Q3NVdFeXhaa2xPTF9EQWxFTThERzRNR3VPaGRWazVEaXE2ekNxM0RNbTFEMDNpQ3hpdFdjaDA?oc=5",
-    "source": "서귀포방송"
+    "title": "한가람미술관, 새 단장 마치고 내년 1월 개관 - 한국금융경제신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZbTBmcF9LYnBjNHhrSnRwcTJFbXpWa2tSMlRrVzExTG92SkkxRFdJSS1sWkRUbVpzZmREM3lGdXNpdmdXajl1U0Q0LTluWHRQVHh2bHEzcTBDV0ZZYzN2UEZmRXJEUjhjRDVDZdIBcEFVX3lxTFBzVGt5N2RqYjhtTFNCQTFyNXZEczZkTldMbU92dTVvYl9LeVktaHhBMHlTM192dWFCTFF2UDl2VjlZVzFVZjA0OFNlMzNDZzZLWlFnNUFuU0VmU0drTTJOWXZLbDFWWlhhUnZwcVoyejI?oc=5",
+    "source": "한국금융경제신문"
    },
    {
-    "title": "병·화병 반복해 그리며 빛·형태 탐구…조르조 모란디 회화세계 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQ3dCQlVJZGFZTHhIcEYzelk0VnBOWXRCamhFb3dUXzhwLVExUFVFTWgxb3lSYkFJWjkwT0lfak1leE92alhWU2d2LUt1bVloOU9weFZjeUo0cDDSAWBBVV95cUxNOThPZWtYMmk0eEpMd1hYRXB5ZWRfbGxwLUhtcWNmcTd3cG1DRUV5MF8wdmRpTGxPZm9qMGdaY3pQb0RWdzY0NFV3Q1dMWVVFM3BBdjhBaGdodHlLQ3dwOC0?oc=5",
-    "source": "연합뉴스"
+    "title": "높고 좁은 문 너머, 아랍이 쓴 미술사…바레인 왕족의 컬렉션[현장] - k-Artprice",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zX3Q5aXlVVVU2cVNBMlYtbmlOVU5lbFJfMkJMLUdLMmgzcm9oUUlDV3VhNlRSZGVJaVVmS01TVjh2Yy1zRTk2VjdoZzJZa2piZ0I2czFwcGNrbks0bGk1a05jcFZWV3NubmxEUmpBdms?oc=5",
+    "source": "k-Artprice"
    },
    {
-    "title": "양구군 4개 박물관·미술관 한자리에.. 통합 전시 개최 > 뉴스데스크 - MBC 강원영동",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZG11Vnlhb0daaGNXenZIU3QwckM1XzVuQ081LWFCUVJHUFF2ZWVSUlVZNG1CU2JhX2NtbTVaZ1dUNzVIQVNOdXR4VQ?oc=5",
-    "source": "MBC 강원영동"
+    "title": "[Pocus 용인 전시 해설] 백남준아트센터 《별, 괘卦》 展 … \"수능 끝, 미술관 갈래?\" 초대 - 얼리어답터뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rY2lzUlFjNVRIemZuc2k5eGtrM2lBbkd6N0pCcVZPMG1VQV94NjRDS29jNnRXaUNpNzhaZHJ3aWY0ZHdub2k1MnhR?oc=5",
+    "source": "얼리어답터뉴스"
    },
    {
-    "title": "인상주의에서 극사실주의까지…주말 전시 풍성 - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRTUwOU52RHBVQXJqZ1huRC0yMnF4VzJGd0Vsa0hOaEZDY3VOcGlaLVJQNS1ROVZMbDR1YVlFcnJKRGI5TTQ2SWd4QW0yOEN4dG0xdTh3WFpERjgzVGliTEpIN1dfUQ?oc=5",
-    "source": "KBS 뉴스"
+    "title": "중광미술관 건립 답보…제주도 \"기증 작품 432점 반환도 검토\" - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4S1FtX0xVVW5pbEs5SkFaMFljY1R5dlZUR0JubUx2WXk4RzA0SzRKSHNxeHljVG00bjFPMENtT0tteHhrd1dWeXdSUmdQY0ZH?oc=5",
+    "source": "뉴스1"
    },
    {
-    "title": "1조7000억 쏟아부은 ‘사막의 루브르’… 서구 중심 미술사 깼다 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaERwZF8zeGlOeDk3Z0hqWTk3YWp2OWZmMllxY2FBT3FQVXFCb1Nub042bzhIV0hRUDZxX1ZXWl9UUzRpR1BMLWNHN01iTFUxQ0VTVWdzb3BRWU82ZUREblVpazNUYktWT3Qwd3FNSHlWU09hWkg3V2FrRUtwOGM4OTV3WW9tY2hYdUY3Vm55NA?oc=5",
-    "source": "조선일보"
+    "title": "[전시 트렌드의 변화①] 프리즈 아부다비 89개 갤러리, 규모보다 선별을 택한 아트페어 - 케이트렌디뉴스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vVDN6TENCV29BaU1OcjN2T2FxT290ZWs2OEdESWtUZi1zY3FPOC1jelJjMk9GdkdTS2RUTl9RcWNENUV1eFVTTkg1MDlCVTJCSWFkMENPVDZZazl1bkpkNnFOamZJckxTTXhyZU5tRVo?oc=5",
+    "source": "케이트렌디뉴스"
    },
    {
-    "title": "침묵을 말하는 이들: 조각가들이 무료 전시에서 자신의 이야기를 들려준다 - Sortir à Paris",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVWxnVWJhaDRfZzVXQVFFT1pMSUJMZjBxRTBpcGhIMlZCWlZnRW5zS1RYMXhBTXZoZVJmUFQyNmVudGx5WF8zLXpjeVNWNVdCSVhHM0kwTFJ5YWVhVm80bzZuZDZyMGhYMEtwb2hjZjM0UWp4MzJWX1owbUxWVklDV29ZN2tWaXU2cGpRUmRjTUxZWE1RbkhYcHNGTjc1RlZpS2VVekt0X0tISUpYUEVhSkNLRE80MnNQM0RzeHlRYnFrS3hmTHpScFlyV0NEc3QxLWw3N3ltY29XcDBSb25JV1NHUjFEcmRuYWln?oc=5",
-    "source": "Sortir à Paris"
-   },
-   {
-    "title": "전북도립미술관, '전시를 잇는 스크리닝' 개최 - 대동N뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNFMyZEtZRzV0amo1M3FzSkhmbjBsR0pqa29MdEVsbG02MGRCeWUteVE5dERSeXNmelhLSF9uQWpab0NnTDFFRHRzUWZBanNFQlJvdG9LQWIxTmt6U0YyT3Fxa21nLUU?oc=5",
-    "source": "대동N뉴스"
-   },
-   {
-    "title": "“전시 끝난 가벽은 어디로?” 미술관끼리 자원 공유 - 비건뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KaVdUbVNzYlJtOG84enNLM2toQVJJTWJ4MUZrMUwwQ3J4OEpZWU9DeUhfakJkX1Fza3JHWEFzdlNGVGZlZjhsRFIyNUFsbm9JQm5aNkpMYW01aEVZMXJ3V0dTRXQzdw?oc=5",
+    "title": "서울시립미술관 ‘기술의 저변’ 22일 폐막 - 비건뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xcTJ3UEV1T1kzU2Y0TWV1OTY3bWlaUjFQUGt6Y1BUeG9EM0Z2MjBlVGFXci1BRGY5ZGN6TjhIM1FmR25YY0VzZFhRN1N6Uld0SFFWM0RLVmE5MENCTXlkSjc0MXVGUQ?oc=5",
     "source": "비건뉴스"
+   },
+   {
+    "title": "나주문화재단, 국립현대미술관 공모 선정…생태 기획전 선보인다 - 뉴스21 통신",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92czVBYUlmdGNFaGdDblBFWFVWT2hLRDlkc0FzQWQ4aFhQaTJmZ1NrNmp3UndDUW4zMGphaDdlMF9iSE5rbWhza0EwR3FtamUwem1QVDJB?oc=5",
+    "source": "뉴스21 통신"
+   },
+   {
+    "title": "한화금융 PLUS, 기획 전시 ‘PRELUDE’ 론칭... 한국 작가 ‘오묘초’ 조각·영상 선보여 - 우드플래닛",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xdVZJeHR0NXZNSlpoRmRERnh6MWt1MUVfTXVCakJ6Nmd5ejhtU0NWQ3BxaVhnUEpDNTctTGJWWkwwbVNKRHdQeDlYam14bDBtTG5pdFdkZ1YtSExHZnpWQ9IBcEFVX3lxTE1kVzlfcm90UkVjWUR2YllMN1JEaFBzRDdKaFUzUzBZMjVUZlB5eHR3S1BRUmx5WmR6Z2szcFo5ZGxvT2pFV1lyM0NlVW5lNDZNd2l3a2tJZ3VBYmRhb0FDMFF6ZXFVOV84MTdZci14Sno?oc=5",
+    "source": "우드플래닛"
    }
   ],
   "영화·공연": [
    {
-    "title": "울산 수험생을 위한 초청공연…뮤지컬·연극 무대 이어져 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95MHJhenRqUTFNWV9fWGlvdnNQakNETVFlcEcxa3pMc2p1ZllaOVcxVzQ4Mnd3WDJWTC10VVhwVVd3WnBVS0JfZV9NTkkwVUV3Yk1TczZsNXRJVFJfZHp6dtIBYEFVX3lxTE95MHJhenRqUTFNWV9fWGlvdnNQakNETVFlcEcxa3pMc2p1ZllaOVcxVzQ4Mnd3WDJWTC10VVhwVVd3WnBVS0JfZV9NTkkwVUV3Yk1TczZsNXRJVFJfZHp6dg?oc=5",
+    "title": "영화 ’암살자(들)’, 북미 진출…17개 도시 개봉 - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFVE82TzkxRFZRZGVldVVYUjY3MGNRU19mSmpyb2VoQnltN0d6RUxLOUN1emNxVmU5eVhmN2tvZ0FyenlYNnA0ZW5iWGRDLVZCcjNxcmpNUkNjS1QyWEpEY1cxMUlQcXM?oc=5",
+    "source": "연합뉴스TV"
+   },
+   {
+    "title": "영화 '암살자(들)', 북미 진출…17개 도시 개봉 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45eV9RMzNXczRvZEFJeDN0NF9tUTZwZWg3aGdaUE1nSmpob2Z1QjR5TzZscnVxMzRaeHJXU1VhR3I1VFZUY0ZnWUE0NUZuZ0Rhd0RxaVlNVGhyWlcxaEZUWNIBYEFVX3lxTE45eV9RMzNXczRvZEFJeDN0NF9tUTZwZWg3aGdaUE1nSmpob2Z1QjR5TzZscnVxMzRaeHJXU1VhR3I1VFZUY0ZnWUE0NUZuZ0Rhd0RxaVlNVGhyWlcxaEZUWA?oc=5",
     "source": "연합뉴스"
    },
    {
-    "title": "수험표가 할인권으로…반값 뮤지컬에 1만원 연극까지 - 동방일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb2loaWxZQWRvUXJ1MzRETXVtUTY2d1gwVUFnaGxHd0k1QVVGT0hZVUNOUjVlVV9kb2w4X3dtTWUxbkhvaldzbWlUZGY4NUNhVmwxWnFaWkNPZE5DUjREb1NSdC1rbzBqaXI0eXNrNmc1U1k?oc=5",
-    "source": "동방일보"
+    "title": "[개봉 영화] 할리우드 코믹 상견례 '미트 페어런츠 4'…일 청춘 로맨스 '아름다운 초저녁달' - OBS경인TV",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoeklhdGVHelVBZ0RtZTZIemdmVkJCNFVsVXFBTGd4UzNwdkNVS0lrUmVfU251NnI5V1pWaUJJVXBOOHB5VllBXzVDQ091VS16Uy02MDRqeUdIT0g4d3dPVm5kT0NDOGQ1b1hsczhR?oc=5",
+    "source": "OBS경인TV"
    },
    {
-    "title": "청년문화예술패스 추가 발급 23일 시작…티켓링크서 내년 2월 공연까지 예매 가능 - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kX0tySXJSdnpwUjVqNHhWYXJHREVNTkpYYlROa0pHbThUYmlfejhibUg4NGJQaWNMMnZjZGsxZUp3ckdyM1VHazVzdEY4aC1zdXhabWlqQzFYMm9ubjhZdThsWQ?oc=5",
-    "source": "쿠키뉴스"
+    "title": "영화 개봉 후, 만화 시리즈 '슈퍼 엉덩이 탐정'이 베트남 독자들에게도 소개되었다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEpXTTFEdDlhSDVlZWF5YWVnNjNXTzZEZUdSeEJMVGdSenVnTk9lMktlZldmeWhtazliemVmcC1rRzhIa2VENjV3d1VMeXllWHFBR0NEOUdQNTJ6cUNqc21PYTk3SzBUREpOTllyVUduVWZ5bEpEOEJrRW1pdTB1R3A3NDVpM1RnRlduMG92d0MtZmM?oc=5",
+    "source": "Vietnam.vn"
    },
    {
-    "title": "강원 곳곳이 무대 된 11월 예술 릴레이… 지역 서사 담은 신작 5편 출격 - 아시아투데이",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCRHRtRGZ4RjBaZDRRUXpqVDhiRmJWM2dDLXdOZzZ3MjlTb1o2bFFaRDdUWmdUTzBoVzk4M2hEME9EUmd1M281akNMQ3NVTFFqMTVWUFhkR0J3aEgyZXRRVHZvT0NaRDBXbmpIODhB?oc=5",
-    "source": "아시아투데이"
+    "title": "“이런 시험이면 없애는 것이 오히려 낫다” 수능 창시자의 탄식 - 한겨레",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04S2xscmtHbmNRLWhzdWZCQjZBd1R6blFxd3hPTWZWcHZ3SFJsT3pvWjFoN25RNG9JY2pVcG5ha2hZaHY5RElad1lzSjJyeTFkV3dqSWItdVl5ZG1keXhFWUNsdEstc25BVG13Tm5QaERYZw?oc=5",
+    "source": "한겨레"
    },
    {
-    "title": "[라이프&문화] 주목할 공연 - 한국교육신문",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KbDREUmoyM3UxOVBUaXNuRVo5cjFTMVJWelZQajR2VTVoTjR1WTg4bmxyY2J2TUo4ZkctWUxCc296anRlMjROOExuNFhuQWNLRnpFUzFGUmhHc1R0dUpN?oc=5",
-    "source": "한국교육신문"
+    "title": "임영웅, 팬들과 극장서 깜짝 만남 예고…서울까지 방문 지역 넓혀 - 제민일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52b1NYd1lydzlzcXhZTzJFVGZuakdRT1g5aEFicmk4RWIxN0lUZUZla0JaeTBQY3NUVmZ4Ym1lWTZjUWV1SlRiMmx0aDd0ZzRBVDJFNlNwZ3Y4TDlMeFI2OXRfVlktdw?oc=5",
+    "source": "제민일보"
    },
    {
-    "title": "강원문화재단, 도내 5개 지역서 창작공연 5편 이달 연속 무대 - 클래시안",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzTzVZTWRrMEdudldRVm9kTjczcUk2ek0xN1ZRcWZ5Tnl4YlYzNjhQSmU2YTNXZHRINkhacDZKbGN3cDJLSlljQWt4QzhpMlhnbDNVQWtR?oc=5",
-    "source": "클래시안"
+    "title": "영화 '폭설' 개봉 첫 주말 박스오피스 1위 질주 - 스페셜타임스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YzZLSXJkVWhuaDljemhLMXNWWUtoZkd3LXA3WDl2ek1OU29CVTF3ZkhRVGdsWFA1QjFYVEFUeWZ0bHFhZnctS1ZYSEVva09nd0N4dVRKQTB5a0YxZ0IwbVBKZENoM2Y2N1NrOUItbFFuQQ?oc=5",
+    "source": "스페셜타임스"
    },
    {
-    "title": "지하창고 방이 무인도로..청운대 공연기획경영학과, 뮤지컬 '무인도 탈출기' 무료 공연 - 당진신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GenAzcXRmbFFUQy1mRTlzd01Xd0daN3ZfRFFZdVV2MUdxcFRvWnFXbFRqaXQzeWlJMXl3MjFReFV6dmVQUEFrSk9nRmVYVjB5a2JvT0RJM1VwQ3doMHo2N3M5NVd1Wm5z?oc=5",
-    "source": "당진신문"
-   },
-   {
-    "title": "83석 무대에서 이어진 공포…댕로홀의 20년 - 하이뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMT2dxZHluMW4wQk9aMDluXzRPcW9wNDZYd0k0UEo3LWl2Nk9hM2s5am0yV0NhbGNPYmlsSV9SelpJU2RTc2lDUE91SERucFdjOHptMkN5RDRSNE9mTDZCZ0l0ZTktNGo0YTFLcHlLcEhKc05TaHNV?oc=5",
-    "source": "하이뉴스"
+    "title": "한국영상대 재학생이 만든 영화, '모퉁이' 25일 극장 개봉 - ABC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOR1g2Y25ZQ0t5cVdLOVlBTHVpNzlRR2YzemRJaFI5Y1d6UmVmQkFsRFNaNzBYMF9ZZ3VrYVRQaURDRXJDeGh3eWVEOVgzZTRkMGFmcHNfTmtsYWozVksybDRxc9IBZ0FVX3lxTFB1dGxhRUYwQmVZTjlmVm1CNC1kNUxfNXpqRkFjOFZoRXRacUhxMFNCR09RTzhCV1VDdE5od1l5UmZjMHFVdUR6TnV6cXd6VDNBS2hkYlZaVFNXSXBuNlJUZGVmTm9sUkU?oc=5",
+    "source": "ABC뉴스"
    }
   ],
   "문화 이슈": [
    {
-    "title": "영해 '이웃사촌마을' 조성 성과 공유 - 울진신문",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xdFluUlRpR3RtZGJySVJNM2luWmxMZGZXZ0hWTzVWRmMxSEtSRTY2b0VjX2U2a2I1ZWFMRWFucnI2TnUxbmFjVHZFY3hXeDJUMU1LZzlZNTBrT3gzVzMzQ3VmRlY2RGZackloaGN3?oc=5",
-    "source": "울진신문"
+    "title": "[메세나브리핑-11월3주] 재능문화, ’시, 백 년의 숨결을 잇다’ 개최 외 - 파이낸셜투데이",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01MUswWEd5NllnNllBRWxQUmFWQ3NsWnU4RXBOLTNTT25DbGQ2NGNwWV9GbVdsclo4ZUNJYm9DNzdsOEJIYzRkSjFkUDlmNnhZb2lyNll3c0xua2xhcXBCSUpXZnNFU01nVXd2Vmt30gFuQVVfeXFMTTUxSzBYR3k2WWc2WUFFbFBSYVZDc2xadThFcE4tM1NPbkNsZDY0Y3BZX0ZtV2xyWjhlQ0lib0M3N2w4QkhjNGRKMWRQOWY2eFlvaXI2WXdzTG5rbGFxcEJJSldmc0VTTWdVd3ZWa3c?oc=5",
+    "source": "파이낸셜투데이"
    },
    {
-    "title": "무대에 선 첫 코미디언…전연주, 올해의 신진 장애예술인 - 얼리어답터뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aVFhwQjIxNnhaY0lPYWRKbVEzR0dVLXUxb0xxdmFmMnVLMDBrMjlhdk0ydVNZeExmNjdSeWx0N05LcGkxYWllTW53?oc=5",
-    "source": "얼리어답터뉴스"
-   },
-   {
-    "title": "이승철 ‘황제밴드’ 새 멤버 제임스·릴리, 그래미 후보 앨범 참여 화제 - 뉴스플릭스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vSHM3WFhtWkNKbXJ3Mnl5LWRYbXRYaXpWY0xnYl91eWtLcjdUeWxUWmExMHQwVWMweFBwYWVaMTU5SFM4dnFpbVYxMlRsak41bTE0N0VpZktrWmxiUW9vajg3Z2lRMXRXbmM5Rg?oc=5",
-    "source": "뉴스플릭스"
-   },
-   {
-    "title": "“알몸 벗겨진 것처럼 느껴졌다”…’65세’ 女가수, 희귀병 투병→과거 ‘트라우마’ (‘동치미’) - MHN스포츠",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZVzBBNXVBOXZRbFhVNFBuUVNJem8zc3V3eTB1YVNJUWZ0NVJGdW9RVlg1RFVnZzZocmczY1NpMS04WmQ1MV9qTktaelZVTHZfLUE3c0FFbG9Yb3cwempaVVQxYw?oc=5",
-    "source": "MHN스포츠"
+    "title": "올해의 화제성 신진 장애예술인, 올 7월 데뷔한 스탠드업 코미디언 전연주 선정 - DWBNEWS",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RWlkcjZHX295ZTRnYzZCSjdmUkJuVE1US3VJUkl0dnhrdGxKUFVZdjZBaWxIZFhrMUl5N3VKdkRIcDk2aWZDQmc3S0pYeGpJTkNEU0gxRXJiZTJrejI5ZDI3Uy1ONmUt?oc=5",
+    "source": "DWBNEWS"
    }
   ]
  },
